@@ -1,2 +1,2 @@
 # Intralinker
-Intralinker - The In Sitsu Crosslinking system for gantry style 3D Bioprinting
+Intralinker - In Sitsu Crosslinking system for Extrusion 3D Bioprinting
